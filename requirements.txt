@@ -1,0 +1,5 @@
+transformers
+sklearn
+seqeval
+torch
+tqdm
